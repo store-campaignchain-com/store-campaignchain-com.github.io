@@ -1,0 +1,37 @@
+{"results": [
+    {
+        "name": "campaignchain\/activity-twitter",
+        "description": "Post a status update (aka Tweet) on a Twitter stream.",
+        "version": "1.0.0-beta.1",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/activity-twitter",
+        "repository": "https:\/\/github.com\/CampaignChain\/operation-twitter"
+    },
+    {
+        "name": "campaignchain\/activity-facebook",
+        "description": "Post a status message on the feed of a channel.",
+        "version": "1.0.0-beta.1",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/activity-facebook",
+        "repository": "https:\/\/github.com\/CampaignChain\/activity-facebook"
+    },
+    {
+        "name": "campaignchain\/activity-linkedin",
+        "description": "Post a news update on a LinkedIn stream.",
+        "version": "1.0.0-beta.1",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/activity-linkedin",
+        "repository": "https:\/\/github.com\/CampaignChain\/activity-linkedin"
+    },
+    {
+        "name": "campaignchain\/location-website",
+        "description": "Simple module that connects a Website and to define its pages as CampaignChain Locations.",
+        "version": "1.0.0-beta.1",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/location-website",
+        "repository": "https:\/\/github.com\/CampaignChain\/location-website"
+    },
+    {
+        "name": "campaignchain\/activity-gotowebinar",
+        "description": "Include a Webinar into a campaign.",
+        "version": "1.0.0-beta.1",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/activity-gotowebinar",
+        "repository": "https:\/\/github.com\/CampaignChain\/activity-gotowebinar"
+    }
+]}

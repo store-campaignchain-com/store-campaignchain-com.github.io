@@ -1,0 +1,30 @@
+{"results": [
+    {
+        "name": "campaignchain\/operation-twitter",
+        "description": "Collection of various Twitter operations.",
+        "version": "1.0.0-alpha.4",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/operation-twitter",
+        "repository": "https:\/\/github.com\/CampaignChain\/operation-twitter"
+    },
+    {
+        "name": "campaignchain\/operation-facebook",
+        "description": "Collection of various Facebook operations.",
+        "version": "1.0.0-alpha.4",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/operation-facebook",
+        "repository": "https:\/\/github.com\/CampaignChain\/operation-facebook"
+    },
+    {
+        "name": "campaignchain\/operation-linkedin",
+        "description": "Collection of various LinkedIn operations.",
+        "version": "1.0.0-alpha.4",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/operation-linkedin",
+        "repository": "https:\/\/github.com\/CampaignChain\/operation-linkedin"
+    },
+    {
+        "name": "campaignchain\/location-website",
+        "description": "Simple module that connects a Website and to define its pages as CampaignChain Locations.",
+        "version": "1.0.0-alpha.4",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/location-website",
+        "repository": "https:\/\/github.com\/CampaignChain\/location-website"
+    }
+]}
