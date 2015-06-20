@@ -33,5 +33,19 @@
         "version": "dev-master",
         "url": "https:\/\/packagist.org\/packages\/campaignchain\/activity-gotowebinar",
         "repository": "https:\/\/github.com\/CampaignChain\/activity-gotowebinar"
+    },
+    {
+        "name": "campaignchain\/activity-mailchimp",
+        "description": "Add upcoming newsletter campaign.",
+        "version": "dev-master",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/activity-mailchimp",
+        "repository": "https:\/\/github.com\/CampaignChain\/activity-mailchimp"
+    },
+    {
+        "name": "campaignchain\/activity-slideshare",
+        "description": "Add add a slideshow to a campaign.",
+        "version": "dev-master",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/activity-slideshare",
+        "repository": "https:\/\/github.com\/CampaignChain\/activity-slideshare"
     }
 ]}
