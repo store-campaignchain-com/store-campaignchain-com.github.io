@@ -47,5 +47,12 @@
         "version": "dev-master",
         "url": "https:\/\/packagist.org\/packages\/campaignchain\/activity-slideshare",
         "repository": "https:\/\/github.com\/CampaignChain\/activity-slideshare"
+    },
+    {
+        "name": "campaignchain\/campaign-repeating",
+        "description": "A campaign that is being repeated automatically.",
+        "version": "dev-master",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/campaign-repeating",
+        "repository": "https:\/\/github.com\/CampaignChain\/campaign-repeating"
     }
 ]}
