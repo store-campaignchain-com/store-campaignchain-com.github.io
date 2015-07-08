@@ -43,7 +43,7 @@
     },
     {
         "name": "campaignchain\/activity-slideshare",
-        "description": "Add add a slideshow to a campaign.",
+        "description": "Add a slideshow to a campaign.",
         "version": "dev-master",
         "url": "https:\/\/packagist.org\/packages\/campaignchain\/activity-slideshare",
         "repository": "https:\/\/github.com\/CampaignChain\/activity-slideshare"
