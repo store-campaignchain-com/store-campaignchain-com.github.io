@@ -54,5 +54,12 @@
         "version": "dev-master",
         "url": "https:\/\/packagist.org\/packages\/campaignchain\/campaign-repeating",
         "repository": "https:\/\/github.com\/CampaignChain\/campaign-repeating"
+    },
+    {
+        "name": "campaignchain\/campaign-template",
+        "description": "Create re-usable templates of campaigns.",
+        "version": "dev-master",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/campaign-template",
+        "repository": "https:\/\/github.com\/CampaignChain\/campaign-template"
     }
 ]}
