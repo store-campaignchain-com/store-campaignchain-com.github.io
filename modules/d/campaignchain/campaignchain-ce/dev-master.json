@@ -49,6 +49,13 @@
         "repository": "https:\/\/github.com\/CampaignChain\/activity-slideshare"
     },
     {
+        "name": "campaignchain\/activity-xing",
+        "description": "Post a personal status message on XING.",
+        "version": "dev-master",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/activity-xing",
+        "repository": "https:\/\/github.com\/CampaignChain\/activity-xing"
+    },
+    {
         "name": "campaignchain\/campaign-repeating",
         "description": "A campaign that is being repeated automatically.",
         "version": "dev-master",
