@@ -1,0 +1,100 @@
+{"results": [
+    {
+        "name": "campaignchain\/activity-twitter",
+        "description": "Post a status update (aka Tweet) on a Twitter stream.",
+        "version": "dev-master",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/activity-twitter",
+        "repository": "https:\/\/github.com\/CampaignChain\/operation-twitter"
+    },
+    {
+        "name": "campaignchain\/activity-facebook",
+        "description": "Post a status message on the feed of a channel.",
+        "version": "dev-master",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/activity-facebook",
+        "repository": "https:\/\/github.com\/CampaignChain\/activity-facebook"
+    },
+    {
+        "name": "campaignchain\/activity-linkedin",
+        "description": "Post a news update on a LinkedIn stream.",
+        "version": "dev-master",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/activity-linkedin",
+        "repository": "https:\/\/github.com\/CampaignChain\/activity-linkedin"
+    },
+    {
+        "name": "campaignchain\/location-website",
+        "description": "Simple module that connects a Website and to define its pages as CampaignChain Locations.",
+        "version": "dev-master",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/location-website",
+        "repository": "https:\/\/github.com\/CampaignChain\/location-website"
+    },
+    {
+        "name": "campaignchain\/activity-gotowebinar",
+        "description": "Include a Webinar into a campaign.",
+        "version": "dev-master",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/activity-gotowebinar",
+        "repository": "https:\/\/github.com\/CampaignChain\/activity-gotowebinar"
+    },
+    {
+        "name": "campaignchain\/activity-mailchimp",
+        "description": "Add upcoming newsletter campaign.",
+        "version": "dev-master",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/activity-mailchimp",
+        "repository": "https:\/\/github.com\/CampaignChain\/activity-mailchimp"
+    },
+    {
+        "name": "campaignchain\/activity-slideshare",
+        "description": "Add a slideshow to a campaign.",
+        "version": "dev-master",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/activity-slideshare",
+        "repository": "https:\/\/github.com\/CampaignChain\/activity-slideshare"
+    },
+    {
+        "name": "campaignchain\/campaign-repeating",
+        "description": "A campaign that is being repeated automatically.",
+        "version": "dev-master",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/campaign-repeating",
+        "repository": "https:\/\/github.com\/CampaignChain\/campaign-repeating"
+    },
+    {
+        "name": "campaignchain\/campaign-template",
+        "description": "Create re-usable templates of campaigns.",
+        "version": "dev-master",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/campaign-template",
+        "repository": "https:\/\/github.com\/CampaignChain\/campaign-template"
+    },
+    {
+        "name": "campaignchain\/campaign-scheduled",
+        "description": "A campaign with a start and end date.",
+        "version": "dev-master",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/campaign-scheduled",
+        "repository": "https:\/\/github.com\/CampaignChain\/campaign-scheduled"
+    },
+    {
+        "name": "campaignchain\/milestone-scheduled",
+        "description": "A milestone with a due date.",
+        "version": "dev-master",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/milestone-scheduled",
+        "repository": "https:\/\/github.com\/CampaignChain\/milestone-scheduled"
+    },
+    {
+        "name": "campaignchain/report-google-analytics",
+        "description": "Access Google Analytics data.",
+        "version": "dev-master",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/report-google-analytics",
+        "repository": "https:\/\/github.com\/CampaignChain\/report-google-analytics"
+    },
+    {
+        "name": "campaignchain/report-analytics-cta-tracking",
+        "description": "Shows a graph of inbound and outbound calls-to-action related to an online location.",
+        "version": "dev-master",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/report-analytics-cta-tracking",
+        "repository": "https:\/\/github.com\/CampaignChain\/report-analytics-cta-tracking"
+    },
+    {
+        "name": "campaignchain/report-analytics-metrics-per-activity",
+        "description": "Graphs that display the metrics per marketing activity of a specific campaign.",
+        "version": "dev-master",
+        "url": "https:\/\/packagist.org\/packages\/campaignchain\/report-analytics-metrics-per-activity",
+        "repository": "https:\/\/github.com\/CampaignChain\/report-analytics-metrics-per-activity"
+    }
+]}
